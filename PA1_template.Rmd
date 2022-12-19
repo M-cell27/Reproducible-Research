@@ -1,5 +1,6 @@
 ---
 title: "Reproducible Research: Peer Assessment 1"
+author: Melitza Sepulveda
 output: md_document
 date: 12/19/2022
     keep_md: true
